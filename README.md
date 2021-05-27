@@ -1,9 +1,11 @@
-# safari-redirect-issue
-
-https://redirect-issue.web.app
+# Safari-redirect-issue
 
 #### index page
-https://github.com/cola119/safari-redirect-issue/blob/master/pages/public/index.html
+https://redirect-issue.web.app
+
+code: https://github.com/cola119/safari-redirect-issue/blob/master/pages/public/index.html
 
 #### CrossOrigin redirector
-https://github.com/cola119/safari-redirect-issue/blob/master/redirector/public/redirect.html
+https://location-href-redirector.firebaseapp.com/redirect.html
+
+code: https://github.com/cola119/safari-redirect-issue/blob/master/redirector/public/redirect.html
